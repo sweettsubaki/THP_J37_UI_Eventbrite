@@ -1,8 +1,8 @@
-###Projet UI pour EventBrite
+##Projet UI pour EventBrite
 
 >Jour 37 de la 8ème semaine
 
-## tu auras à réaliser les molécules et organismes suivants :
+# tu auras à réaliser les molécules et organismes suivants :
 
     Une navbar
     Un footer
